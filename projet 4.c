@@ -9,5 +9,6 @@ int main(){
 	scanf("%d",&d);
 	printf("la somme est = %d\n ", a+b+c+d);
 	printf(" la moyenne est =%d\n ",(a+b+c+d)/4);
+	//something
 	return 0;
 }
